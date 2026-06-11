@@ -84,14 +84,11 @@ function App() {
 { /* Contact */}
 <section id="contact" className="section">
   <h2>Contact</h2>
+  <p> singh.yachna25@gmail.com</p>
+  <p> +91 9871499866 </p>
   <p>GitHub: github.com/yachna2507</p>
   <p>Location: Gurugram, Haryana</p>
-  <p>Portfolio Projects:</p>
-  <ul>
-    <li>MERN Ecommerce Dashboard</li>
-    <li>Shopify Dashboard</li>
-    <li>PHP CRUD Admin Panel</li>
-  </ul>
+  
 </section>
 </div>
   );
