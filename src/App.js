@@ -12,6 +12,7 @@ function App() {
   return (
     <>
     
+
       <Navbar />
       <Hero />
       <About />
@@ -23,4 +24,3 @@ function App() {
       );
       }
       export default App;
-       
