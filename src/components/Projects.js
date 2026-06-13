@@ -9,7 +9,7 @@ function Projects() {
                 <h3>MERN Ecommerce Dashboard</h3>
 
                 
-                <a
+                
 
         <p className="tech-stack">React | Node.js | MongoDB | Express</p>
         
