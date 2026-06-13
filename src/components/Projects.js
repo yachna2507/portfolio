@@ -21,6 +21,7 @@ function Projects() {
                 </div>
             <div className="project-card">
                 <h3> Shopify Admin Dashboard</h3>
+                     <p className="tech-stack">React | Node.js | MongoDB | Express | Shopify</p>
                     <div className="project-links">
                 <a
                 href="https://shopify-admin-dashboard-client.vercel.app"
@@ -36,6 +37,7 @@ function Projects() {
             </div>
             <div className="project-card">
                 <h3>PHP CRUD Admin Panel</h3>
+                     <p className="tech-stack"> HTML | CSS | JavaScript | PHP | MySQL </p>
                     <div className="project-links">
                 <a
                 href="http://yachnacrud.great-site.net/php_crud_project/login.php"
