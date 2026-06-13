@@ -4,6 +4,7 @@ function Projects() {
             <h2>Projects</h2>
             <div className="projects-grid">
                 <h3>MERN Ecommerce Dashboard</h3>
+                
                 <a
                 href="https://mern-ecommerce-dashboard-tau.vercel.app"
                 target="_blank"
@@ -12,6 +13,7 @@ function Projects() {
             </div>
             <div className="projects-grid">
                 <h3> Shopify Admin Dashboard</h3>
+                
                 <a
                 href="https://shopify-admin-dashboard-client.vercel.app"
                 target="_blank"

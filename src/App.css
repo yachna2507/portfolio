@@ -132,15 +132,43 @@ section h2 {
 .btn:hover {
   transform: translateY(-2px);
 }
-
-.contact-box {
-  background: white;
-  padding: 30px;
-  border-radius: 12px;
-  max-width: 700px;
-  margin: auto;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+#contact {
+  text-align: center;
+  padding: 60px 20px;
+  background: #f9faf9;
 }
-.contact-box p {
-  margin: 12px 0;
+#contact h2 {
+  margin-bottom: 16px;
+}
+#contact p {
+  color: #4b5563;
+}
+.contact-links {
+  display: flex;
+  justify-content: center;
+gap: 16px;
+flex-wrap: wrap;
+margin-bottom: 32px;
+}
+
+.contact-btn 
+{
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: #2563eb;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 500px;
+  transition: 0.2s;
+}
+.contact-btn:hover {
+  background: #1d4ed8;
+  transform: translateY(-2px);
+}
+.location {
+  font-size: 14px;
+  color: #6b7280;
 }
