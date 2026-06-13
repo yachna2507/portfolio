@@ -73,48 +73,65 @@ section h2 {
 .skills-container {
   display: flex;
   flex-wrap: wrap;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
   gap: 12px;
   justify-content: center;
 }
 .skill {
   background: #2563eb;
   color: white;
-  padding: 10px, 18px;
+  padding: 10px 18px;
   border-radius: 25px;
   font-size: 14px;
 }
 
 .projects-grid {
   display: grid;
-
-  grid-template-columns: repeat(auto-fit, minmax(280px,1fr));
-  gap: 25px;
+grid-template-columns: repeat(auto-fit, minmax(300px,1fr));
+  gap: 24px;
+  padding: 40px 0;
+  max-width: 1200px;
+  margin: 0 auto;
 }
-.project-card h3 {
-  margin-top: 0;
+.project-card {
+  background: white;
+  padding: 28px;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  border: 1px solid #e5e7eb;
+  transition: all 0.3s ease;
+  
 }
+.project-card:hover {
+  tranform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(37, 99, 235, 0.15);
+}
+  .project-card h3 {
+    margin-top: 0;
+    margin-botttom: 12px;
+    font-size: 20px;
+    color: #1e293b;
+  }
+    .project-card p {
+      color: #64748b;
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
 .project-card a {
   display: inline-block;
-  margin-top: 10px;
-  color: #2563eb;
+  margin-right: 12px;
+  margin-top: 0px;
+  padding: 8px 16px;
+  background: #2563eb;
+  color: white;
   text-decoration: none;
-  font-weight: bold;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+.project-card a:hover {
+  background: #1d4ed8;
+  transform: translateY(-2px);
 }
 
 
