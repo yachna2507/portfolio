@@ -21,7 +21,7 @@ function Projects() {
                 </div>
             <div className="project-card">
                 <h3> Shopify Admin Dashboard</h3>
-                     <p className="tech-stack">React | Node.js | MongoDB | Express | Shopify</p>
+                     <p className="tech-stack">React | Node.js | MongoDB | Express | Shopify API</p>
                     <div className="project-links">
                 <a
                 href="https://shopify-admin-dashboard-client.vercel.app"
