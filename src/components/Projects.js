@@ -10,7 +10,7 @@ function Projects() {
                 rel="noreferrer"
                 >Live Demo</a>
             </div>
-            <div className="projects-grid">
+            <div className="projects-card">
                 <h3> Shopify Admin Dashboard</h3>
                 <a
                 href="https://shopify-admin-dashboard-client.vercel.app"
