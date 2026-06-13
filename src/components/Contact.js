@@ -4,6 +4,7 @@ import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 function Contact() {
     return (
         <section id="contact">
+
             <h2>Get In Touch</h2>
             <p>I'm currently open to remote full-stack roles and freelance projects. Let's connect!</p>
             <div className="contact-links">
@@ -23,6 +24,11 @@ function Contact() {
                </a>
                </div>
                <p className="location">Based in Gurugram, India | Open to Remote Work</p>
+            <h2>Contact</h2>
+            <p>Phone: 9871499866</p>
+            <p>Email: singh.yachna2507@gmail.com</p>
+            <p>Location: Gurugram, Haryana</p>
+    
         </section>
     );
 }
