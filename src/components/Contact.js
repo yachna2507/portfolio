@@ -24,10 +24,7 @@ function Contact() {
                </a>
                </div>
                <p className="location">Based in Gurugram, India | Open to Remote Work</p>
-            <h2>Contact</h2>
-            <p>Phone: 9871499866</p>
-            <p>Email: singh.yachna2507@gmail.com</p>
-            <p>Location: Gurugram, Haryana</p>
+            
     
         </section>
     );
