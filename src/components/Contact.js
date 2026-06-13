@@ -12,7 +12,7 @@ function Contact() {
                 <FaEnvelope /> Email Me
 </a>
 <a href="https://linkedin.com/in" target="_blank" rel="noreferrer" className="contact-btn">
-<FaEnvelope /> LinkedIn</a>
+<FaLinkedin /> LinkedIn</a>
             
             <a href="https://github.com/yachna2507"
                target="_blank"
