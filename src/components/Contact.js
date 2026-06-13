@@ -11,7 +11,7 @@ function Contact() {
             <a href="mailto: singh.yachna2507@gmail.com" className="contact-btn">
                 <FaEnvelope /> Email Me
 </a>
-<a href="www.linkedin.com/in/yachana-singh-09b530416" target="_blank" rel="noreferrer" className="contact-btn">
+<a href="https://linkedin.com/in/yachana-singh-09b530416" target="_blank" rel="noreferrer" className="contact-btn">
 <FaLinkedin /> LinkedIn</a>
             
             <a href="https://github.com/yachna2507"
