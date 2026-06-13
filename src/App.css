@@ -68,8 +68,21 @@ section p {
   line-height: 1.7;
   color: #475569;
 }
-
-
+#skills {
+  text-align: center;
+  padding: 60px 20px;
+}
+#skills h2 {
+  margin-bottom: 30px;
+}
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  max-width: 800px;
+  margin: 0 auto;
+}
 .skill {
   background: #2563eb;
   color: white;
@@ -77,9 +90,6 @@ section p {
   border-radius: 20px;
   font-size: 14px;
   font-weight: 500;
-  transition: all 0.2s ease;
-  display: inline-block;
-  margin: 6px;
 }
 .skill:hover {
   background: #1d4ed8;
