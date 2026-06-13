@@ -7,15 +7,15 @@ function Projects() {
             <div className="project-card">
 
                 <h3>MERN Ecommerce Dashboard</h3>
-<<<<<<< HEAD
+
                 
                 <a
-=======
+
         <p className="tech-stack">React | Node.js | MongoDB | Express</p>
         
         <div className="project-links">
          <a
->>>>>>> 31b4d0af18bfedd22096e6ddaa42209e127b06a6
+
                 href="https://mern-ecommerce-dashboard-tau.vercel.app"
                 target="_blank"
                 rel="noreferrer"
@@ -26,12 +26,11 @@ function Projects() {
                 </div>
             <div className="project-card">
                 <h3> Shopify Admin Dashboard</h3>
-<<<<<<< HEAD
                 
-=======
+
                      <p className="tech-stack">React | Node.js | MongoDB | Express | Shopify API</p>
                     <div className="project-links">
->>>>>>> 31b4d0af18bfedd22096e6ddaa42209e127b06a6
+
                 <a
                 href="https://shopify-admin-dashboard-client.vercel.app"
                 target="_blank"
