@@ -1,8 +1,9 @@
 function Projects() {
     return (
         <section id="projects">
+        <h2>Projects</h2>
         <div className="projects-grid">
-            <h2>Projects</h2>
+            
             <div className="projects-card">
                 <h3>MERN Ecommerce Dashboard</h3>
                 <a
