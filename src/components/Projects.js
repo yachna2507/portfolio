@@ -9,15 +9,13 @@ function Projects() {
                 <h3>MERN Ecommerce Dashboard</h3>
         
         <div className="project-links>
-        
-        
-                <a
+         <a
                 href="https://mern-ecommerce-dashboard-tau.vercel.app"
                 target="_blank"
                 rel="noreferrer"
                 >Live Demo</a>
                     </div>
-                    </div>
+                </div>
             <div className="project-card">
                 <h3> Shopify Admin Dashboard</h3>
                     <div className="project-links">
@@ -28,6 +26,7 @@ function Projects() {
                 >
                     Live Demo
                 </a>
+                    
                     </div>
             </div>
             <div className="project-card">
