@@ -5,16 +5,22 @@ function Projects() {
         <div className="projects-grid">
             
             <div className="project-card">
+
                 <h3>MERN Ecommerce Dashboard</h3>
+        
+        <div className="project-links>
+        
+        
                 <a
                 href="https://mern-ecommerce-dashboard-tau.vercel.app"
                 target="_blank"
                 rel="noreferrer"
                 >Live Demo</a>
-            
+                    </div>
                     </div>
             <div className="project-card">
                 <h3> Shopify Admin Dashboard</h3>
+                    <div className="project-links">
                 <a
                 href="https://shopify-admin-dashboard-client.vercel.app"
                 target="_blank"
@@ -22,9 +28,11 @@ function Projects() {
                 >
                     Live Demo
                 </a>
+                    </div>
             </div>
             <div className="project-card">
                 <h3>PHP CRUD Admin Panel</h3>
+                    <div className="project-links">
                 <a
                 href="http://yachnacrud.great-site.net/php_crud_project/login.php"
                 target="_blank"
@@ -33,6 +41,7 @@ function Projects() {
                 >
                     Live Demo
                 </a>
+                    </div>
             </div>
                     </div>
         </section>
