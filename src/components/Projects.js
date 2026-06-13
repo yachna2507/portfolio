@@ -15,7 +15,7 @@ function Projects() {
                 target="_blank"
                 rel="noreferrer"
                 >Live Demo</a>
-                    <a href="https://github.com/yachna2507/mern-ecommerce-dashboard" target="_blank" rel="norefferer">GitHub</a>
+                    <a href="https://github.com/yachna2507/mern-ecommerce-dashboard" target="_blank" rel="noreferrer">GitHub</a>
                     </div>
                     
                 </div>
@@ -29,7 +29,7 @@ function Projects() {
                 >
                     Live Demo
                 </a>
-                      <a href="https://github.com/yachna2507/shopify-admin-dashboard" target="_blank" rel="norefferer">GitHub</a>
+                      <a href="https://github.com/yachna2507/shopify-admin-dashboard" target="_blank" rel="noreferrer">GitHub</a>
                     </div>
                     
                     
@@ -45,7 +45,7 @@ function Projects() {
                 >
                     Live Demo
                 </a>
-                      <a href="https://yachnacrud.great-site.net/php_crud_project" target="_blank" rel="norefferer">GitHub</a>
+                      <a href="https://yachnacrud.great-site.net/php_crud_project" target="_blank" rel="noreferrer">GitHub</a>
                     </div>
                     
             </div>
